@@ -13,6 +13,8 @@ The dataset used for this project is the **[Global Lake/Reservoir Surface Extent
 - **GRanD**
 - **OpenStreetMap**
 
+Additionally, the **[Nautral Earth 1:110m Cultural Vectors](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/cultural/ne_110m_admin_0_countries.zip)** are used in place of the depreciated 'naturalearth_lowres' dataset.
+
 ## Goals
 - Explore and analyze the impact of climate change on North American lakes, especially permafrost-fed lakes.
 - Visualize lake formation, expansion, drainage, and desiccation trends over time.

@@ -16,3 +16,6 @@ The dataset used for this project is the **[Global Lake/Reservoir Surface Extent
 ## Goals
 - Explore and analyze the impact of climate change on North American lakes, especially permafrost-fed lakes.
 - Visualize lake formation, expansion, drainage, and desiccation trends over time.
+
+# Note
+This project is from the **[NSDC](https://nebigdatahub.org/nsdc-dsp-permafrost-lakes/)** and was solely completed by Lisa Mills.
